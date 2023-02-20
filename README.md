@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KMC-0001
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Discord API
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me bots@kylemcdonald.co.za
+- 📫 How to reach me coding@dreadonline.xyz
 
 <!---
 KMC-0001/KMC-0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
